@@ -1,6 +1,6 @@
 import Image from "next/image";
 import food from "../../public/food.jpg";
-import ImageSVG from "./imageSvg";
+import ImageSVG from "./imageSVG";
 
 export default function AboutFood() {
   return (
